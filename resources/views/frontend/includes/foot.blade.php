@@ -73,7 +73,4 @@
 		<!-- main JS
 		============================================ -->		
         <script src="{{asset('frontend/js/main.js')}}"></script>
-    </body>
-
-<!-- Mirrored from htmldemo.net/tm/educat/educat/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 02 Jan 2023 18:50:32 GMT -->
-</html>
+    

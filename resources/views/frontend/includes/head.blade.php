@@ -1,6 +1,4 @@
-<!doctype html>
-<html class="no-js" lang="en">
-<head>
+
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>Home || MBACollege</title>
@@ -74,5 +72,3 @@
         <link rel="alternate stylesheet" type="text/css" href="{{asset('frontend/switcher/background3.css')}}" title="background3" media="screen" />
         <link rel="alternate stylesheet" type="text/css" href="{{asset('frontend/switcher/background4.css')}}" title="background4" media="screen" />
         <link rel="alternate stylesheet" type="text/css" href="{{asset('frontend/switcher/background5.css')}}" title="background5" media="screen" />
-    </head>
-    <body>

@@ -12,7 +12,7 @@
                                 </div>
                                 <div class="col-lg-5 col-md-7 col-12">
                                     <div class="header-top-right">
-                                        <div class="content"><a href="#"><i class="zmdi zmdi-account"></i> My Account</a>
+                                        <!-- <div class="content"><a href="#"><i class="zmdi zmdi-account"></i> My Account</a>
                                             <ul class="account-dropdown">
                                                 <li><a href="login-register.html">My Account</a></li>
                                                 <li><a href="login-register.html">Log In</a></li>
@@ -21,7 +21,8 @@
                                             </ul>
                                         </div>
                                         <div class="content"><a href="#"><i class="zmdi zmdi-favorite"></i> Wishlist</a></div>
-                                        <div class="content"><a href="#"><i class="zmdi zmdi-shopping-basket"></i> Chechout</a></div>
+                                        <div class="content"><a href="#"><i class="zmdi zmdi-shopping-basket"></i> Chechout</a></div> -->
+                                        <div class="content"><a href="#"><h3> MBACollege</h3></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -32,7 +33,7 @@
                             <div class="row">
                                 <div class="col-lg-3 col-12">
                                     <div class="logo">
-                                        <a href="index.html"><img src="{{asset('frontend/img/logo/logo.png')}}" alt="EDUCAT"></a>
+                                        <a href="index.html"><img src="{{asset('frontend/img/logo/logo.jpg')}}" style="width:10vh;" alt="EDUCAT"></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-9 col-12">
@@ -175,13 +176,13 @@
                                                 </ul>
                                             </nav>
                                         </div>
-                                        <ul class="header-search">
+                                        <!-- <ul class="header-search">
                                             <li class="search-menu">
                                                 <i id="toggle-search" class="zmdi zmdi-search-for"></i>
                                             </li>
-                                        </ul>
+                                        </ul> -->
                                         <!--Search Form-->
-                                        <div class="search">
+                                        <!-- <div class="search">
                                             <div class="search-form">
                                                 <form id="search-form" action="#">
                                                     <input type="search" placeholder="Search here..." name="search" />
@@ -190,13 +191,13 @@
                                                     </button>
                                                 </form>                                
                                             </div>
-                                        </div>
+                                        </div> -->
                                         <!--End of Search Form-->
                                     </div> 
                                 </div>
                             </div>
                         </div>
                     </div>  
-                    @include('frontend.includes.mobilemenu'); 
+                    @include('frontend.includes.mobilemenu')
                 </header>
                 <!--End of Header Area-->

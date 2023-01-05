@@ -86,12 +86,6 @@
                                         <div class="footer-img">
                                             <a href="#"><img src="{{asset('frontend/img/footer/4.jpg')}}" alt=""></a>
                                         </div>
-                                        <div class="footer-img">
-                                            <a href="#"><img src="{{asset('frontend/img/footer/5.jpg')}}" alt=""></a>
-                                        </div>
-                                        <div class="footer-img">
-                                            <a href="#"><img src="{{asset('frontend/img/footer/6.jpg')}}" alt=""></a>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
