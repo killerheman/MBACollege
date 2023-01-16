@@ -61,7 +61,7 @@
         <div class="row">
             <div class="col-lg-8 col-md-12">
                 <div class="about-container">
-                    <h3>WHY EDUCAT ?</h3>
+                    <h3>WHY MBA ?</h3>
                     <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text
                         amr songr balga ami toami valo lasi ciri din akr dali</p>
                     <a class="button-default" href="#">Learn Now</a>

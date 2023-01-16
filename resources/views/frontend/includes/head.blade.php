@@ -7,7 +7,7 @@
         
 		<!-- favicon
 		============================================ -->		
-        <link rel="shortcut icon" type="image/x-icon" href="{{asset('frontend/img/favicon.ico')}}">
+        <link rel="shortcut icon" type="image/x-icon" href="{{asset('frontend/img/logo/logo.jpg')}}" style="width:3vh">
 		
 		<!-- Google Fonts
 		============================================ -->		

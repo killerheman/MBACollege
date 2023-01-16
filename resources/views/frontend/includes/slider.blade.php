@@ -2,8 +2,8 @@
   <div class="slider-area">
                     <div class="preview-2">
                         <div id="nivoslider" class="slides">	
-                            <img src="{{asset('frontend/img/slider/1.jpg')}}" alt="" title="#slider-1-caption1"/>
-                            <img src="{{asset('frontend/img/slider/2.jpg')}}" alt="" title="#slider-1-caption2"/>
+                            <img src="{{asset('frontend/img/slider/lnmu15.jpg')}}" style="height:500px;width:860px" alt="" title="#slider-1-caption1"/>
+                            <img src="{{asset('frontend/img/slider/lnmu2.jpg')}}" style="height:500px;width:860px" alt="" title="#slider-1-caption2"/>
                         </div> 
                         <div id="slider-1-caption1" class="nivo-html-caption nivo-caption">
                             <div class="banner-content slider-1">
