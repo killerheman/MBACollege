@@ -61,7 +61,7 @@
         <link rel="alternate stylesheet" type="text/css" href="{{asset('frontend/switcher/color-eight.css')}}" title="color-eight" media="screen" />
         <link rel="alternate stylesheet" type="text/css" href="{{asset('frontend/switcher/color-nine.css')}}" title="color-nine" media="screen" />
         <link rel="alternate stylesheet" type="text/css" href="{{asset('frontend/switcher/color-ten.css')}}" title="color-ten" media="screen" />
-        <link rel="alternate stylesheet" type="text/css" href="{{asset('frontend/switcher/color-ten.css')}}" title="color-ten" media="screen" />
+        <link rel="alternate stylesheet" type="text/css" href="{{asset('frontend/switcher/color-eleven.css')}}" title="color-ten" media="screen" />
         <link rel="alternate stylesheet" type="text/css" href="{{asset('frontend/switcher/pattren1.css')}}" title="pattren1" media="screen" />
         <link rel="alternate stylesheet" type="text/css" href="{{asset('frontend/switcher/pattren2.css')}}" title="pattren2" media="screen" />
         <link rel="alternate stylesheet" type="text/css" href="{{asset('frontend/switcher/pattren3.css')}}" title="pattren3" media="screen" />

@@ -22,7 +22,7 @@
                                         </div>
                                         <div class="content"><a href="#"><i class="zmdi zmdi-favorite"></i> Wishlist</a></div>
                                         <div class="content"><a href="#"><i class="zmdi zmdi-shopping-basket"></i> Chechout</a></div> -->
-                                        <div class="content"><a href="#"><h3> MBACollege</h3></a></div>
+                                        <div class="content"><a href="#"><h5>Commerce and Business Administration </h5></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -33,7 +33,7 @@
                             <div class="row">
                                 <div class="col-lg-3 col-12">
                                     <div class="logo">
-                                        <a href="index.html"><img src="{{asset('frontend/img/logo/logo.jpg')}}" style="width:10vh;" alt="EDUCAT"></a>
+                                        <a href="index.html"><img src="{{asset('frontend/img/logo/logo.jpg')}}" style="width:10vh;" alt="College"></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-9 col-12">

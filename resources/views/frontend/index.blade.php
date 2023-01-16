@@ -21,7 +21,7 @@
 
     .nav-tabs li.active {
         color: #3498db;
-        background: #f2f2f2;
+        /* background: #f2f2f2; */
         transform: rotateX(360deg) rotateY(0deg) rotateZ(0deg) skewX(330deg);
         transition: all 0.8s ease 0s;
     }
@@ -31,17 +31,12 @@
         outline: none;
         padding: 14px 28px;
         color: #fff;
-        background: #86bc42;
+        /* background: #86bc42; */
         ;
     }
 
     .nav-tabs li a:hover {
         color: #333;
-    }
-
-    .tab .tab-content h4 {
-        color: #86bc42;
-        ;
     }
 
     @media only screen and (max-width: 480px) {

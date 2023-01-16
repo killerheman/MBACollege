@@ -20,6 +20,7 @@
                     <li><a href="#" class="cs-color-8 styleswitch" data-rel="color-eight"></a></li>
                     <li><a href="#" class="cs-color-9 styleswitch" data-rel="color-nine"></a></li>
                     <li><a href="#" class="cs-color-10 styleswitch" data-rel="color-ten"></a></li>
+                    <li><a href="#" class="cs-color-10 styleswitch" data-rel="color-eleven"></a></li>
                 </ul>
                 <!-- <div class="ec-pattren">
                     <h6>Chose Pattren</h6>

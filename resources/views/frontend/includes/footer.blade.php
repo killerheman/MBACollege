@@ -36,7 +36,7 @@
                             <div class="col-lg-3 col-md-6">
                                 <div class="single-footer-widget">
                                     <div class="footer-logo">
-                                        <a href="index.html"><img src="{{asset('frontend/img/logo/footer.png')}}" alt=""></a>
+                                        <a href="index.html"><img src="{{asset('frontend/img/logo/logo.jpg')}}" style="width:10vh;" alt=""></a>
                                     </div>
                                     <p>There are many variations of passg of Lorem Ipsum available, but thmajority have suffered altem, </p>
                                     <div class="social-icons">
