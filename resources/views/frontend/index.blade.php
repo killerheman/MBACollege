@@ -61,10 +61,9 @@
         <div class="row">
             <div class="col-lg-8 col-md-12">
                 <div class="about-container">
-                    <h3>WHY MBA ?</h3>
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text
-                        amr songr balga ami toami valo lasi ciri din akr dali</p>
-                    <a class="button-default" href="#">Learn Now</a>
+                    <h3>About MBALNMU ?</h3>
+                    <p>Established in 1972, the Department offering traditional (M.Com.) as well as modern (MBA) academic programs, besides Ph.D. & D. Litt. Programs in Commerce and Management.                    </p>
+                    <a class="button-default" href="#">Read More</a>
                 </div>
             </div>
         </div>
@@ -80,7 +79,7 @@
                 <div class="section-title-wrapper">
                     <div class="section-title">
                         <h3>Latest News</h3>
-                        <p>There are many variations of passages</p>
+                        <p></p>
                     </div>
                 </div>
             </div>
@@ -161,9 +160,9 @@
                             <a href="#"><img src="http://localhost:8000/frontend/img/course/3.jpg" alt=""></a>
                         </div>
                         <div class="single-item-text">
-                            <h4><a href="#">Indesign CC 2017</a></h4>
+                            <h4><a href="#">Himanshu Sharma</a></h4>
                             <div class="single-item-text-info">
-                                <span>By: <span>Momin Boss</span></span>
+                                Director
                             </div>
 
                         </div>
@@ -183,7 +182,7 @@
                 <div class="section-title-wrapper white">
                     <div class="section-title">
                         <h3>IMPORTANT FACTS</h3>
-                        <p>There are many variations of passages of Lorem Ipsum</p>
+                        <p></p>
                     </div>
                 </div>
             </div>
@@ -226,295 +225,46 @@
                 <div class="section-title-wrapper">
                     <div class="section-title">
                         <h3>POPULAR COURSES</h3>
-                        <p>There are many variations of passages of Lorem Ipsum</p>
+                        <p></p>
                     </div>
                 </div>
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-4 col-md-6 col-12">
+            <div class="col-lg-6 col-md-6 col-12">
                 <div class="single-item">
                     <div class="single-item-image overlay-effect">
                         <a href="#"><img src="{{asset('frontend/img/course/1.jpg')}}" alt=""></a>
                     </div>
                     <div class="single-item-text">
-                        <h4><a href="#">Photoshop CC 2017</a></h4>
-                        <div class="single-item-text-info">
-                            <span>By: <span>M S Nawaz</span></span>
-                            <span>Date: <span>20.5.15</span></span>
-                        </div>
-                        {{-- <p>There are many variations of sages of Lorem Ipsum available, but the mrity have suffered alteration in some orm, by injected humo ur,There are many but the mri have suffered alteration in some </p> --}}
-                        <div class="single-item-content">
-                            <div class="single-item-comment-view">
-                                <span><i class="zmdi zmdi-eye"></i>59</span>
-                                <span><i class="zmdi zmdi-comments"></i>19</span>
-                            </div>
-                            <div class="single-item-rating">
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star-half"></i>
-                            </div>
-                        </div>
+                        <h4><a href="#">Department of Commerce</a></h4>
+                        <p>Department of Commerce is one of the twin departments, housed in the College of Commerce and Business Management situated in the main campus of the Osmania University, has a history of over six decades and caters to the academic requirements of over 1500 students at PG level. </p>
+
                     </div>
                     <div class="button-bottom">
-                        <a href="#" class="button-default">Learn Now</a>
+                        <a href="#" class="button-default">Read More</a>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-12">
+            <div class="col-lg-6 col-md-6 col-12">
                 <div class="single-item">
                     <div class="single-item-image overlay-effect">
                         <a href="#"><img src="{{asset('frontend/img/course/2.jpg')}}" alt=""></a>
                     </div>
                     <div class="single-item-text">
-                        <h4><a href="#">Illustrator CC 2017</a></h4>
-                        <div class="single-item-text-info">
-                            <span>By: <span>Subas Das</span></span>
-                            <span>Date: <span>20.5.15</span></span>
-                        </div>
-                        {{-- <p>There are many variations of sages of Lorem Ipsum available, but the mrity have suffered alteration in some orm, by injected humo ur,There are many but the mri have suffered alteration in some </p> --}}
-                        <div class="single-item-content">
-                            <div class="single-item-comment-view">
-                                <span><i class="zmdi zmdi-eye"></i>59</span>
-                                <span><i class="zmdi zmdi-comments"></i>19</span>
-                            </div>
-                            <div class="single-item-rating">
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star-half"></i>
-                            </div>
-                        </div>
+                        <h4><a href="#">Department of Business Management</a></h4>
+                        <p>The Department of Business Management has been conducting a two-year postgraduate programme in Business Management since 1964. It was established as an independent entity in 1971. The department trains 80 students every year with the best of faculty and facilities.</p>
                     </div>
                     <div class="button-bottom">
-                        <a href="#" class="button-default">Learn Now</a>
+                        <a href="#" class="button-default">Read More</a>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-12">
-                <div class="single-item">
-                    <div class="single-item-image overlay-effect">
-                        <a href="#"><img src="{{asset('frontend/img/course/3.jpg')}}" alt=""></a>
-                    </div>
-                    <div class="single-item-text">
-                        <h4><a href="#">Indesign CC 2017</a></h4>
-                        <div class="single-item-text-info">
-                            <span>By: <span>Momin Boss</span></span>
-                            <span>Date: <span>20.5.15</span></span>
-                        </div>
-                        {{-- <p>There are many variations of sages of Lorem Ipsum available, but the mrity have suffered alteration in some orm, by injected humo ur,There are many but the mri have suffered alteration in some </p> --}}
-                        <div class="single-item-content">
-                            <div class="single-item-comment-view">
-                                <span><i class="zmdi zmdi-eye"></i>59</span>
-                                <span><i class="zmdi zmdi-comments"></i>19</span>
-                            </div>
-                            <div class="single-item-rating">
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star-half"></i>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="button-bottom">
-                        <a href="#" class="button-default">Learn Now</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-12 col-sm-12 text-center">
-                <a href="#" class="button-default button-large">Browse All Courses <i class="zmdi zmdi-chevron-right"></i></a>
             </div>
         </div>
     </div>
 </div>
 <!--End of Course Area-->
 
-<!--Online Product Area Start-->
-{{-- <div class="product-area section-bottom-padding bg-white">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="section-title-wrapper">
-                    <div class="section-title">
-                        <h3>Online Library</h3>
-                        <p>There are many variations of passages</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-3 col-md-6">
-                <div class="single-product-item">
-                    <div class="single-product-image">
-                        <a href="#"><img src="{{asset('frontend/img/product/1.jpg')}}" alt=""></a>
-                    </div>
-                    <div class="single-product-text">
-                        <h4><a href="#">Title Product Here</a></h4>
-                        <h5>Book</h5>
-                        <div class="product-price">
-                            <h3>$ 28</h3>
-                            <div class="single-item-rating">
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star-half"></i>
-                            </div>
-                        </div>
-                        <div class="product-buttons">
-                            <button type="button" class="button-default cart-btn">ADD TO CART</button>
-                            <button type="button" class="button-default"><i class="zmdi zmdi-favorite"></i></button>
-                            <button type="button" class="button-default"><i class="zmdi zmdi-refresh-alt"></i></button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="single-product-item">
-                    <div class="single-product-image">
-                        <a href="#"><img src="{{asset('frontend/img/product/2.jpg')}}" alt=""></a>
-                    </div>
-                    <div class="single-product-text">
-                        <h4><a href="#">Title Product Here</a></h4>
-                        <h5>Book</h5>
-                        <div class="product-price">
-                            <h3>$ 28</h3>
-                            <div class="single-item-rating">
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star-half"></i>
-                            </div>
-                        </div>
-                        <div class="product-buttons">
-                            <button type="button" class="button-default cart-btn">ADD TO CART</button>
-                            <button type="button" class="button-default"><i class="zmdi zmdi-favorite"></i></button>
-                            <button type="button" class="button-default"><i class="zmdi zmdi-refresh-alt"></i></button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="single-product-item">
-                    <div class="single-product-image">
-                        <a href="#"><img src="{{asset('frontend/img/product/3.jpg')}}" alt=""></a>
-                    </div>
-                    <div class="single-product-text">
-                        <h4><a href="#">Title Product Here</a></h4>
-                        <h5>Book</h5>
-                        <div class="product-price">
-                            <h3>$ 28</h3>
-                            <div class="single-item-rating">
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star-half"></i>
-                            </div>
-                        </div>
-                        <div class="product-buttons">
-                            <button type="button" class="button-default cart-btn">ADD TO CART</button>
-                            <button type="button" class="button-default"><i class="zmdi zmdi-favorite"></i></button>
-                            <button type="button" class="button-default"><i class="zmdi zmdi-refresh-alt"></i></button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="single-product-item">
-                    <div class="single-product-image">
-                        <a href="#"><img src="{{asset('frontend/img/product/4.jpg')}}" alt=""></a>
-                    </div>
-                    <div class="single-product-text">
-                        <h4><a href="#">Title Product Here</a></h4>
-                        <h5>Book</h5>
-                        <div class="product-price">
-                            <h3>$ 28</h3>
-                            <div class="single-item-rating">
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star"></i>
-                                <i class="zmdi zmdi-star-half"></i>
-                            </div>
-                        </div>
-                        <div class="product-buttons">
-                            <button type="button" class="button-default cart-btn">ADD TO CART</button>
-                            <button type="button" class="button-default"><i class="zmdi zmdi-favorite"></i></button>
-                            <button type="button" class="button-default"><i class="zmdi zmdi-refresh-alt"></i></button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div> --}}
-<!--End of Online Product Area-->
-<!--Testimonial Area Start-->
-{{-- <div class="testimonial-area">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 offset-lg-0 col-md-12 col-12">
-                <div class="row">
-                    <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
-                        <div class="testimonial-image-slider text-center">
-                            <div class="sin-testiImage">
-                                <img src="{{asset('frontend/img/testimonial/1.jpg')}}" alt="testimonial 1" />
-                            </div>
-                            <div class="sin-testiImage">
-                                <img src="{{asset('frontend/img/testimonial/2.jpg')}}" alt="testimonial 2" />
-                            </div>
-                            <div class="sin-testiImage">
-                                <img src="{{asset('frontend/img/testimonial/3.jpg')}}" alt="testimonial 3" />
-                            </div>
-                            <div class="sin-testiImage">
-                                <img src="{{asset('frontend/img/testimonial/1.jpg')}}" alt="testimonial 1" />
-                            </div>
-                            <div class="sin-testiImage">
-                                <img src="{{asset('frontend/img/testimonial/2.jpg')}}" alt="testimonial 2" />
-                            </div>
-                            <div class="sin-testiImage">
-                                <img src="{{asset('frontend/img/testimonial/3.jpg')}}" alt="testimonial 3" />
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="testimonial-text-slider text-center">
-                    <div class="sin-testiText">
-                        <h2>M S Nawaz </h2>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-                    </div>
-                    <div class="sin-testiText">
-                        <h2>Chowchilla Madera</h2>
-                        <p>Nam nec tellus a odio tincidunt This lorem is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean nisi sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum gravida.</p>
-                    </div>
-                    <div class="sin-testiText">
-                        <h2>Kattie Luis</h2>
-                        <p>Nam nec tellus a odio tincidunt This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean tincidunt sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum Photoshop.</p>
-                    </div>
-                    <div class="sin-testiText">
-                        <h2>M S Nawaz </h2>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-                    </div>
-                    <div class="sin-testiText">
-                        <h2>Chowchilla Madera</h2>
-                        <p>Nam nec tellus a odio tincidunt This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, aliquet lorem quis tellus velit bibendum auctor, nisi elit consequat ipsum</p>
-                    </div>
-                    <div class="sin-testiText">
-                        <h2>Kattie Luis</h2>
-                        <p>Nam nec tellus a odio tincidunt This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem gravida tincidunt quis bibendum auctor, nisi elit consequat ipsum</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div> --}}
-<!--End of Testimonial Area-->
 <!--Event Area Start-->
 <div class="event-area section-padding bg-white">
     <div class="container">
@@ -523,7 +273,7 @@
                 <div class="section-title-wrapper">
                     <div class="section-title">
                         <h3>OUR EVENTS</h3>
-                        <p>There are many variations of passages</p>
+                        <p></p>
                     </div>
                 </div>
             </div>
@@ -590,4 +340,5 @@
     </div>
 </div>
 <!--End of Event Area-->
+
 @endsection

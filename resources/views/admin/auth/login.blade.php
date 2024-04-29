@@ -5,12 +5,12 @@
 <head>
 
     <meta charset="utf-8" />
-    <title>CM College | Login</title>
+    <title>MBALNMU | Login</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta content="AqaryClick" name="description" />
+    <meta content="MBALNMU" name="description" />
     <meta content="Themesbrand" name="author" />
     <!-- App favicon -->
-    <link rel="shortcut icon" href="{{ asset('frontend/assets/images/cmlogo.png') }}">
+    <link rel="shortcut icon" href="{{ asset('frontend/img/logo/lnmulogo.png') }}">
 
     <!-- Layout config Js -->
     <script src="{{ asset('backend/assets/js/layout.js') }}"></script>
@@ -67,11 +67,11 @@
                                     <div class="text-center mt-sm-1 mb-2 text-white-50">
                                         <div>
                                             <a href="#" class="d-inline-block auth-logo">
-                                                <img src="{{ asset('frontend/assets/images/cmlogo.png') }}" alt="" height="120">
+                                                <img src="{{ asset('frontend/img/logo/lnmulogo.png') }}" alt="" height="120">
                                             </a>
                                         </div>
                                     </div>
-                                    <p class="text-muted">Sign in to continue to C.M. College, Darbhanga</p>
+                                    <p class="text-muted">Sign in to continue to MBALNMU</p>
 
                                 </div>
                                 <div class="p-2 mt-4">

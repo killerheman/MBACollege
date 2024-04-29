@@ -3,7 +3,7 @@
     <meta charset="utf-8" />
     <title>Admin | @yield('title')</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta content="CM College CMC" name="description" />
+    <meta content="MBALNMU CMC" name="description" />
     <meta content="Themesbrand" name="author" />
     <!-- App favicon -->
     <script type="text/javascript"
