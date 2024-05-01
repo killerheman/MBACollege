@@ -11,12 +11,12 @@
                     <div class="mainmenu d-none d-lg-block">
                         <nav>
                             <ul id="nav">
-                                <li><a href="#">Home</a></li>
+                                <li><a href="{{ route('home') }}">Home</a></li>
                                 <li class="current"><a href="#">About Us</a>
                                     <ul class="sub-menu">
-                                        <li><a href="#">About College</a></li>
-                                        <li><a href="#">Vision & Mission</a></li>
-                                        <li><a href="#">Principal Message</a></li>
+                                        <li><a href="{{ route('aboutUs') }}">About College</a></li>
+                                        <li><a href="{{ route('visionMission') }}">Vision & Mission</a></li>
+                                        <li><a href="{{ route('principalMessage') }}">Principal Message</a></li>
                                         <li><a href="#">Succession List of Principals</a></li>
                                         <li><a href="#">Succession List of Heads</a></li>
                                     </ul>
@@ -42,7 +42,7 @@
                                     </ul>
                                 </li>
                                 <li><a href="#">Examination</a></li>
-                                <li><a href="#">Contact Us</a></li>
+                                <li><a href="{{ route('contactUs') }}">Contact Us</a></li>
                             </ul>
                         </nav>
                     </div>
