@@ -160,7 +160,7 @@
                             <a href="#"><img src="http://localhost:8000/frontend/img/course/3.jpg" alt=""></a>
                         </div>
                         <div class="single-item-text">
-                            <h4><a href="#">Himanshu Sharma</a></h4>
+                            <h4><a href="#">Lorem Ipsum</a></h4>
                             <div class="single-item-text-info">
                                 Director
                             </div>
@@ -224,7 +224,7 @@
             <div class="col-md-12">
                 <div class="section-title-wrapper">
                     <div class="section-title">
-                        <h3>POPULAR COURSES</h3>
+                        <h3>OUR DEPARTMENTS</h3>
                         <p></p>
                     </div>
                 </div>
