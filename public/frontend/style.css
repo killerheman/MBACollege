@@ -1026,7 +1026,10 @@ body {
 }
 
 .header-logo-menu.stick .logo {
-    padding: 23px 0;
+    padding: 10px 0;
+}
+.header-logo-menu.stick .logo img {
+    max-height: 60px !important;
 }
 
 /*----------------------------------------*/
@@ -1049,7 +1052,7 @@ body {
 }
 
 .header-logo-menu.stick .mainmenu-area .mainmenu ul#nav>li>a {
-    line-height: 96px
+    line-height: 80px
 }
 
 .header-logo-menu.stick .mainmenu-area {
@@ -1089,7 +1092,7 @@ body {
 }
 
 .header-logo-menu.stick .mainmenu ul#nav>li>a:after {
-    bottom: 38px;
+    bottom: 30px;
 }
 
 .mainmenu ul#nav.menu-white>li:hover>a:after {
@@ -1814,7 +1817,7 @@ body {
 /*  4. About Area
 /*----------------------------------------*/
 .about-area {
-    background: rgba(0, 0, 0, 0) url("img/bg/about_bg.png") no-repeat fixed center;
+    background: rgba(0, 0, 0, 0) url("img/latest/about_us.jpg") no-repeat fixed center;
     background-size: cover;
     color: #ffffff;
     padding: 120px 0;
