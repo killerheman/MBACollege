@@ -14,55 +14,24 @@
             <div class="col-lg-6 col-md-12 col-12">
                 <div class="about-text-container">
 
-                    <div class="about-us">
-                        <span>Established in 1972, the University Department of Commerce and Business Administration offering traditional (M.Com.) as well as modern (MBA) academic programs, besides Ph.D. & D. Litt. Programs in Commerce and Management.
-                        </span>
-                        <span>In 1991, in globalized socio-economic environment, it started Management education. </span>
-                        <span>The Department, having separate campus and adequate space, has ample scope for academic expansion and development.</span>
-                        <span>By virtue of its products, the Department is pan-India acclaimed.</span>
-                        <span>In funds mobilization, the Department is at the top in the University.</span>
-                        <span>In near future, it has its agenda to erect a new building out of self-generated funds and start new academic programs in tune with NEP-2020.
-                        </span>
-                        <span>Developing research ecosystem for cutting edge business researches is yet another agenda of the Department.
-                        </span>
+                    <div class="about-us text-justify">
+                        <p>The University Department of Commerce and Business Administration is a pioneering Institution in Bihar. The Post Graduate teaching in Commerce was started long back in 1963. Later, the Department started MBA Programme in 1991. The Department over the years has carved out a distinct place for itself in the galaxy of Commerce and Management Institutions. The Department has the credibility of hosting All India Commerce Conference of Indian Commerce Association (ICA) twice; in 1984 and in 1998. Besides, the Department has a long tradition of organizing mega academic events. Significantly, it had organized a quite fruitful National Workshop on Management of Universities in 2005 and National Seminars in 2016 and 2021. In recent past, Department has started a new tradition of organizing International Conferences every year and so far it has successfully organized International Conferences of contemporary importance in the year 2017, 2018, 2020 and 2021. Meanwhile, National Conferences and Workshop have been organized successfully and the present National Conference on “Business Research in Contemporary Times” is being organized on the initiatives of IQAC of the parent University and its Unit in the Department, DQAC.</p>
+                        
+                        <p>The Management Programme running under the agies of University Department of Commerce and Business Administration is conducted in a Lush Green Campus. It has an excellent ambience and dedicated to produce skillful, employable, professionally sound and value-committed people of contemporary times. The people working in this institution have been striving to make it a centre of excellence with their personal touch. In July 2004, the Department was shifted to a new building namely ‘Prabandhan Bhawan’ from ‘Nargauna Palace’ due to rapid growth of the Department.</p>
                     </div>
 
                 </div>
             </div>
             <div class="col-lg-6 col-md-12 col-12">
                 <div class="skill-image">
-                    <img src="{{ asset('frontend/img/banner/6.jpg') }}" alt="">
+                    <img src="{{ asset('frontend/img/latest/about_us.jpg') }}" alt="">
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="container mt-5">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="section-title-wrapper">
-                    <div class="section-title">
-                        <h3>Our Objectives</h3>
-                        <p></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-6 col-md-12 col-12">
-                <div class="about-text-container">
-
-                    <div class="about-us">
-                        <span>To build academic capacity of learners and make them skilled professionals.</span>
-                        <span>To build employability traits in the pass outs.</span>
-                        <span>To equip learners with professional values</span>
-                        <span>To provide learners real life business exposure</span>
-                        <span>To teach and train learners to be the new breed of entrepreneur cluster.</span>
-                    </div>
-                </div>
-            </div>
-
-        </div>
+   
+        
     </div>
 </div>
 <!--End of About Page Area-->
