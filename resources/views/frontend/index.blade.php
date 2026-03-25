@@ -39,16 +39,26 @@
         color: #333;
     }
 
-    @media only screen and (max-width: 480px) {
+    @media only screen and (max-width: 991px) {
+        .nav-tabs {
+            text-align: center;
+            border-bottom: none !important;
+        }
         .nav-tabs li {
             width: 100%;
-            margin: 0 0 10px 0;
+            margin: 0 0 15px 0;
             transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg);
+            display: block;
         }
 
         .nav-tabs li.active {
-            border-bottom: 1px solid #D3D3D3;
+            border-bottom: 2px solid #86bc42;
             transform: rotateX(360deg) rotateY(0deg) rotateZ(0deg) skewX(0deg);
+        }
+        
+        .nav-tabs li a {
+            display: block;
+            padding: 12px;
         }
     }
 </style>

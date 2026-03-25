@@ -2,7 +2,7 @@
 @section('content')
 
 <!--Breadcrumb Banner Area Start-->
-@include('frontend.includes.breadcrumb', ['title' => 'PRINCIPAL MESSAGE'])
+@include('frontend.includes.breadcrumb', ['title' => 'DIRECTOR MESSAGE'])
 <!--End of Breadcrumb Banner Area-->
 
 

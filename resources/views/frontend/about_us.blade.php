@@ -15,15 +15,15 @@
                 <div class="about-text-container">
 
                     <div class="about-us">
-                        <span>Established in 1972, the Department offering traditional (M.Com.) as well as modern (MBA) academic programs, besides Ph.D. & D. Litt. Programs in Commerce and Management.
+                        <span>Established in 1972, the University Department of Commerce and Business Administration offering traditional (M.Com.) as well as modern (MBA) academic programs, besides Ph.D. & D. Litt. Programs in Commerce and Management.
                         </span>
                         <span>In 1991, in globalized socio-economic environment, it started Management education. </span>
-                        <span>Department, having separate campus and adequate space, has ample scope for academic expansion and development.</span>
-                        <span>By virtue of its products, Department is pan-India acclaimed.</span>
-                        <span>In funds mobilization, Department is at the top in the University.</span>
+                        <span>The Department, having separate campus and adequate space, has ample scope for academic expansion and development.</span>
+                        <span>By virtue of its products, the Department is pan-India acclaimed.</span>
+                        <span>In funds mobilization, the Department is at the top in the University.</span>
                         <span>In near future, it has its agenda to erect a new building out of self-generated funds and start new academic programs in tune with NEP-2020.
                         </span>
-                        <span>Developing research ecosystem for cutting edge business researches is yet  another agenda of the Department.
+                        <span>Developing research ecosystem for cutting edge business researches is yet another agenda of the Department.
                         </span>
                     </div>
 

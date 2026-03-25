@@ -7,10 +7,10 @@
                     <div class="header-top">
                         <div class="container">
                             <div class="row">
-                                <div class="col-lg-7 col-md-5 d-none d-lg-block d-md-block">
+                                <div class="col-lg-3 col-md-3 d-none d-lg-block d-md-block">
                                     <span>Have any question? +968 547856 254</span>
                                 </div>
-                                <div class="col-lg-5 col-md-7 col-12">
+                                <div class="col-lg-9 col-md-9 col-12">
                                     <div class="header-top-right">
                                         <!-- <div class="content"><a href="#"><i class="zmdi zmdi-account"></i> My Account</a>
                                             <ul class="account-dropdown">
@@ -22,7 +22,7 @@
                                         </div>
                                         <div class="content"><a href="#"><i class="zmdi zmdi-favorite"></i> Wishlist</a></div>
                                         <div class="content"><a href="#"><i class="zmdi zmdi-shopping-basket"></i> Chechout</a></div> -->
-                                        <div class="content"><a href="#"><h5>Commerce and Business Administration </h5></a></div>
+                                        <div class="content"><a href="#"><h5 class="dept-name">University Department of Commerce and Business Administration</h5></a></div>
                                     </div>
                                 </div>
                             </div>

@@ -23,7 +23,36 @@ Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::get('/about-us', [HomeController::class, 'aboutUs'])->name('aboutUs');
 Route::get('/vision-mission', [HomeController::class, 'visionMission'])->name('visionMission');
 Route::get('/principal-message', [HomeController::class, 'principalMessage'])->name('principalMessage');
+Route::get('/succession-list-principals', [HomeController::class, 'successionPrincipals'])->name('successionPrincipals');
+Route::get('/succession-list-heads', [HomeController::class, 'successionHeads'])->name('successionHeads');
 
+//Administration
+Route::get('/administrative-functionaries', [HomeController::class, 'administrativeFunctionaries'])->name('administrativeFunctionaries');
+Route::get('/office-staff-non-teaching', [HomeController::class, 'nonTeaching'])->name('nonTeaching');
+
+//Academic Programmes
+Route::get('/courses-offered', [HomeController::class, 'coursesOffered'])->name('coursesOffered');
+
+//Research
+Route::get('/research', [HomeController::class, 'research'])->name('research');
+
+//Scholarships
+Route::get('/scholarships', [HomeController::class, 'scholarships'])->name('scholarships');
+
+//Amenities
+Route::get('/infrastructure', [HomeController::class, 'infrastructure'])->name('infrastructure');
+Route::get('/ro-water', [HomeController::class, 'roWater'])->name('roWater');
+Route::get('/24x7-survelliance', [HomeController::class, 'survelliance'])->name('survelliance');
+Route::get('/computer-labs', [HomeController::class, 'computerLabs'])->name('computerLabs');
+Route::get('/hostels', [HomeController::class, 'hostels'])->name('hostels');
+Route::get('/library', [HomeController::class, 'library'])->name('library');
+Route::get('/physical-education', [HomeController::class, 'physicalEducation'])->name('physicalEducation');
+
+//Examination
+Route::get('/examinations', [HomeController::class, 'examinations'])->name('examinations');
+
+//Alumni
+Route::get('/alumni', [HomeController::class, 'alumni'])->name('alumni');
 
 Route::get('/contact-us', [HomeController::class, 'contactUs'])->name('contactUs');
 
